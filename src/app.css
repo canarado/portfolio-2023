@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: TiltNeon;
+    src: url("$lib/fonts/TiltNeon-Regular.ttf");
+}
+
+@layer base {
+    html {
+        @apply scroll-smooth;
+    }
+}
