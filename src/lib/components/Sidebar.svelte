@@ -19,5 +19,8 @@
                 </a>
             </li>
         </ul>
+        <div class="mb-4 pt-80 mt-auto text-cream">
+            <a href="https://github.com/canarado" target="_blank" rel="noreferrer">Github</a> | <a href="https://www.linkedin.com/in/adamjke/" target="_blank" rel="noreferrer">Linkedin</a>
+        </div>
     </div>
 </aside>
