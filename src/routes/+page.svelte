@@ -7,10 +7,10 @@
 <Sidebar />
 
 <div class="p-4 md:ml-96" id="content-container">
-    <div id="about-me">
+    <div id="about-me" class="pb-96">
         <AboutMe />
     </div>
-    <div class="pt-96 flex flex-wrap flex-row justify-evenly" id="projects">
+    <div class="flex flex-wrap flex-row justify-evenly" id="projects">
         <Project title="Raytracer" technologies="Rust" githubUrl="https://github.com/canarado/rust-rt">
             Simple toy-raytracer made in about 12 hours with SIMD for vector math, utilizes rayon multithreading to render each scanline on a separate core. Supports custom materials and shapes via Rust code.
         </Project>
